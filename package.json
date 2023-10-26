@@ -11,5 +11,8 @@
     "url": "1.Internship-in-Byndyusoft"
   },
   "author": "Evgeniy Platonov",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.3.3"
+  }
 }
