@@ -1,0 +1,15 @@
+{
+  "name": "1.internship-in-byndyusoft",
+  "version": "1.0.0",
+  "description": "my first code",
+  "main": "CheckTelegramContact.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "1.Internship-in-Byndyusoft"
+  },
+  "author": "Evgeniy Platonov",
+  "license": "ISC"
+}
