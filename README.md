@@ -1,5 +1,6 @@
-# E2E test for checking a telegram contact
+# Test scanerios & E2E test for checking a telegram contact
 
+Test scenarios: [Тестовые сценариии.csv]
 ## How to run project
 1. Open project in your programming environment 
 2. Run command `npm i` in terminal for installing all required packages (Node.js is required: <https://nodejs.org/en/>)
