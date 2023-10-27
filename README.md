@@ -14,5 +14,5 @@
 About me: Evgeniy Platonov
 
 My contacts:
-e-mail: eugeneplat7@gmail.com /br
+e-mail: eugeneplat7@gmail.com <br/>
 tg: @invinciblem4n
