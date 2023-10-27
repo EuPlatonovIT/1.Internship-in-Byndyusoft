@@ -13,6 +13,6 @@
 
 About me: Evgeniy Platonov
 
-My contacts:
+My contacts: <br/>
 [E-mail](eugeneplat7@gmail.com) <br/>
 [Telegram](https://t.me/invinciblem4n)
