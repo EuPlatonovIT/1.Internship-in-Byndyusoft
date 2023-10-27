@@ -2,7 +2,7 @@
   "name": "1.internship-in-byndyusoft",
   "version": "1.0.0",
   "description": "my first code",
-  "main": "CheckTelegramContact.js",
+  "main": "CheckTelegramContact.cy.js",
   "scripts": {
     "test": "npx cypress open"
   },
