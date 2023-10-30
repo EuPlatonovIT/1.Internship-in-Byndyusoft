@@ -1,6 +1,6 @@
 # Test scenarios & E2E test for checking a telegram contact
 
-[Тестовые кейсы](https://github.com/EuPlatonovIT/1.Internship-in-Byndyusoft/blob/main/Test%20Scenarios.csv)
+[Тестовые сценарии](https://github.com/EuPlatonovIT/1.Internship-in-Byndyusoft/blob/main/Test%20Scenarios.csv)
 
 
 
