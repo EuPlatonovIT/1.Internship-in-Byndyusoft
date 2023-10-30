@@ -2,6 +2,7 @@
 
 [Тестовые сценарии](https://github.com/EuPlatonovIT/1.Internship-in-Byndyusoft/blob/main/Test%20Scenarios.csv)
 
+UPD: добавил C5.1C и C14-C24
 
 
 ## How to run project
