@@ -1,6 +1,8 @@
 # Test scenarios & E2E test for checking a telegram contact
 
-[Тестовые кейсы](https://github.com/EuPlatonovIT/1.Internship-in-Byndyusoft/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B8%D0%B8.csv)
+[Тестовые кейсы](https://github.com/EuPlatonovIT/1.Internship-in-Byndyusoft/blob/main/Test%20Scenarios.csv)
+
+
 
 ## How to run project
 1. Open project in your programming environment 
